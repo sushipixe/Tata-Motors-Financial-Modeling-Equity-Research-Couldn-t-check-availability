@@ -9,7 +9,6 @@ The objective of this project is to evaluate the company's financial performance
 The model has been built in Microsoft Excel using historical financial data and corporate finance methodologies.
 
 ---
-## Dataset Used 
 ## Dataset View
 <div align="center">
 
@@ -27,6 +26,7 @@ The model has been built in Microsoft Excel using historical financial data and 
 
 </div>
 ---
+
 ## Looking for a custome dashboard? Let's connect!
 <img width="1902" height="907" alt="Screenshot 2026-06-15 065225" src="https://github.com/user-attachments/assets/762efc2e-c35c-4904-823b-fb14688444d5" />
 
