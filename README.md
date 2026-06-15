@@ -12,6 +12,10 @@ The model has been built in Microsoft Excel using historical financial data and 
 ## Dataset Used 
 ## Dataset View
 [![Open Financial Model](https://img.shields.io/badge/Open-Financial_Model-blue?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1ABczokmYLSf1wf_hz4Js7wl7ZxTKRm4xOHzFTC8uDuc/edit?usp=sharing)
+---
+## Looking for a custome dashboard? Let's connect!
+<img width="1902" height="907" alt="Screenshot 2026-06-15 065225" src="https://github.com/user-attachments/assets/762efc2e-c35c-4904-823b-fb14688444d5" />
+
 
 ## 🏢 About Tata Motors
 
