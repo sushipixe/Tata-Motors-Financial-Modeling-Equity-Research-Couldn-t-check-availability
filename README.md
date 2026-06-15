@@ -11,7 +11,21 @@ The model has been built in Microsoft Excel using historical financial data and 
 ---
 ## Dataset Used 
 ## Dataset View
-[![Open Financial Model](https://img.shields.io/badge/Open-Financial_Model-blue?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1ABczokmYLSf1wf_hz4Js7wl7ZxTKRm4xOHzFTC8uDuc/edit?usp=sharing)
+<div align="center">
+
+<a href="https://docs.google.com/spreadsheets/d/1ABczokmYLSf1wf_hz4Js7wl7ZxTKRm4xOHzFTC8uDuc/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/Open_Financial_Model-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</a>
+
+<a href="https://sushipixe.github.io/Suraj-Finance-Portfolio/">
+  <img src="https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/suraj-shikalgar-5aa857317">
+  <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 ---
 ## Looking for a custome dashboard? Let's connect!
 <img width="1902" height="907" alt="Screenshot 2026-06-15 065225" src="https://github.com/user-attachments/assets/762efc2e-c35c-4904-823b-fb14688444d5" />
